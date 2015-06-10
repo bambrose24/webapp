@@ -1,4 +1,9 @@
 .woods {
+    height: 100%;
     background-image: url("/images/woods.jpg");
-    background-size: 100px 200px;
+    background-size: 100% 100%;
+}
+
+.jumbotron {
+    opacity: 0.9;
 }
