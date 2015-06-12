@@ -7,3 +7,12 @@
 .jumbotron {
     opacity: 0.9;
 }
+
+.brown-back {
+    height: 100%;
+     background-color: #D49375; 
+    
+    opacity: 0.8;
+}
+
+/* D49375 - the brown of the woods */
